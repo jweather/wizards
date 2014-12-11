@@ -1,4 +1,4 @@
-Wizards in Printer
+==Wizards in Printer
 
 Source repository, such as it is.  The main components:
 
